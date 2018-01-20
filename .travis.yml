@@ -18,10 +18,4 @@ scala:
   - 2.12.3
 jdk:
   - oraclejdk8
-notifications:
-  email:
-    - gvojin@gmail.com
-branches:
-  only:
-    - master
-    - record-operations
+
